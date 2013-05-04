@@ -1,0 +1,124 @@
+﻿@model ResumeBuilder.Core.Entity.Resume
+@{
+    //ViewBag.Title = "cv";
+}
+
+<h2>
+    cv
+</h2>
+
+@using (Html.BeginForm("cv", "home", FormMethod.Post))
+{
+
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Resume</legend>
+
+        <div name='personalInfo' id='1'>
+            <div class="editor-label">
+                @Html.LabelFor(model => model.FirstName)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.FirstName)
+                @Html.ValidationMessageFor(model => model.FirstName)
+            </div>
+            <div class="editor-label">
+                @Html.LabelFor(model => model.LastName)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.LastName)
+                @Html.ValidationMessageFor(model => model.LastName)
+            </div>
+            <div class="editor-label">
+                @Html.LabelFor(model => model.MiddleName)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.MiddleName)
+                @Html.ValidationMessageFor(model => model.MiddleName)
+            </div>
+        </div>
+
+        <div name="mission" id="2">
+            <div class="editor-label">
+                @Html.LabelFor(model => model.MissionStatement)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.MissionStatement)
+                @Html.ValidationMessageFor(model => model.MissionStatement)
+            </div>
+        </div>
+
+        <div name="school" id="3">
+            <div class="editor-label">
+                @Html.LabelFor(model => model.School)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.School)
+                @Html.ValidationMessageFor(model => model.School)
+            </div>
+        </div>
+
+        <div name="rest" id="4">
+            <div class="editor-label">
+                @Html.LabelFor(model => model.Certifications)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.Certifications)
+                @Html.ValidationMessageFor(model => model.Certifications)
+            </div>
+            <div class="editor-label">
+                @Html.LabelFor(model => model.JobExperience)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.JobExperience)
+                @Html.ValidationMessageFor(model => model.JobExperience)
+            </div>
+            <div class="editor-label">
+                @Html.LabelFor(model => model.Email)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.Email)
+                @Html.ValidationMessageFor(model => model.Email)
+            </div>
+            <div class="editor-label">
+                @Html.LabelFor(model => model.PhoneNumber)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.PhoneNumber)
+                @Html.ValidationMessageFor(model => model.PhoneNumber)
+            </div>
+        </div>
+        
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+
+    </fieldset>
+}
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+<article>Hello world</article>
+
+<script type="text/javascript">
+
+</script>
+
+
+
+
+@*
+<div id="myCarousel" class="carousel slide">
+   <!-- Carousel items -->
+   <div class="carousel-inner">
+     <div class="active item"><p>1</p></div>
+     <div class="item"><p>2</p></div>
+     <div class="item"><p>3</p></div>
+   </div>
+<!-- Carousel nav -->
+<a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+<a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+</div>
+*@

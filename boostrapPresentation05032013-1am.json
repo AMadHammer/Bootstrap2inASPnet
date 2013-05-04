@@ -1,0 +1,926 @@
+{
+  "slides": [
+    {
+      "num": 0,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 183,
+          "y": 259,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">Bootstrap for&nbsp;</div><div style=\"text-align: center;\">ASP.NET Developers</div>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 305,
+          "y": 547,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "By: Ammar Ahmed",
+          "size": 48,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 30,
+      "y": 80
+    },
+    {
+      "num": 9,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 52,
+          "y": 41,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Agenda",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 58,
+          "y": 192,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li><span style=\"line-height: normal;\">Overview of bootstrap and it's features (30 min)</span><br><br></li><li><span style=\"line-height: normal;\">Setting up Bootstrap template in ASP.NET(15 min)<br><br></span></li><li><span style=\"line-height: normal;\">Questions</span></li></ul>",
+          "size": 36,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": true,
+      "active": true,
+      "x": 310,
+      "y": 80
+    },
+    {
+      "num": 8,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 68,
+          "y": 318,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Who is this presentation for?",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 590,
+      "y": 80
+    },
+    {
+      "num": 7,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 38,
+          "y": 53,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Who am I?",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "http://brand.uncc.edu/sites/brand.uncc.edu/files/media/brand/UNCCharlotte_Logos/Logomark/UNCC_Logo_1c.gif",
+          "type": "Image",
+          "x": 689,
+          "y": 204,
+          "scale": {
+            "x": 0.6638176638176638,
+            "y": 0.6638176638176638,
+            "width": 233,
+            "height": 100.23646723646723
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 47,
+          "y": 249,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li><span style=\"line-height: normal;\">Graduated at 2011<br></span><br><br><br></li><li>ASP.NET MVC Developer</li></ul>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "src": "http://www.cardinalsolutions.com/etc/designs/cardinal/clientlibs/resources/images/logo.png",
+          "type": "Image",
+          "x": 709,
+          "y": 446,
+          "scale": {
+            "x": 1.68503937007874,
+            "y": 1.68503937007874,
+            "width": 214,
+            "height": 60.661417322834644
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 870,
+      "y": 80
+    },
+    {
+      "num": 6,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 217,
+          "y": 308,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Starting with HTML<br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 1150,
+      "y": 80
+    },
+    {
+      "num": 4,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 207,
+          "y": 243,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">My journey&nbsp;<br>of <br>web development</div>",
+          "size": 64,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 1710,
+      "y": 360
+    },
+    {
+      "num": 5,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 185,
+          "y": 323,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "What is bootstrap?<br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "http://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Twitter_Boostrap_logo.svg/597px-Twitter_Boostrap_logo.svg.png",
+          "type": "Image",
+          "x": 393,
+          "y": 35,
+          "scale": {
+            "x": 0.33835845896147404,
+            "y": 0.33835845896147404,
+            "width": 202,
+            "height": 202.67671691792296
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 134.16267942583733,
+          "y": 473,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<span style=\"font-family: Lato, sans-serif; font-size: 41px; line-height: 41px; white-space: normal;\">Bootstrap is a sleek, intuitive, and powerful&nbsp;</span><br style=\"font-family: Lato, sans-serif; font-size: 41px; line-height: 41px; white-space: normal;\"><span style=\"font-family: Lato, sans-serif; font-size: 41px; line-height: 41px; white-space: normal;\">front-end&nbsp;</span><span style=\"margin: 0px; padding: 0px; border: 0px; font-family: Lato, sans-serif; font-size: 41px; line-height: 41px; vertical-align: baseline; white-space: normal;\"><b><i>framework</i></b></span><span style=\"font-family: Lato, sans-serif; font-size: 41px; line-height: 41px; white-space: normal;\"><b><i>&nbsp;</i></b>for faster and easier&nbsp;</span><br style=\"font-family: Lato, sans-serif; font-size: 41px; line-height: 41px; white-space: normal;\"><span style=\"font-family: Lato, sans-serif; font-size: 41px; line-height: 41px; white-space: normal;\">web development.</span><br>",
+          "size": 36,
+          "selected": false
+        },
+        {
+          "src": "http://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Twitter_bird_logo_2012.svg/173px-Twitter_bird_logo_2012.svg.png",
+          "type": "Image",
+          "x": 895.244019138756,
+          "y": 657,
+          "scale": {
+            "x": 0.43352601156069365,
+            "y": 0.43352601156069365,
+            "width": 75,
+            "height": 61.5606936416185
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 1430,
+      "y": 80
+    },
+    {
+      "num": 10,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 88,
+          "y": 57,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Folder structure",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 143,
+          "y": 191,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div>bootstrap/</div><div>&nbsp; |── css/</div><div>&nbsp; | &nbsp; ├── bootstrap.css</div><div>&nbsp; | &nbsp; ├── bootstrap.min.css</div><div>&nbsp; |── js/</div><div>&nbsp; | &nbsp; ├── bootstrap.js</div><div>&nbsp; | &nbsp; ├── bootstrap.min.js</div><div>&nbsp; |──&nbsp;img/</div><div>&nbsp; &nbsp; &nbsp; |── glyphicons-halflings.png</div><div>&nbsp; &nbsp; &nbsp; |── glyphicons-halflings-white.png</div>",
+          "size": 36,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false
+    },
+    {
+      "num": 3,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 221,
+          "y": 271,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Examples sites<br>&nbsp;and screenshots",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 1990,
+      "y": 360
+    },
+    {
+      "num": 21,
+      "components": [],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false
+    },
+    {
+      "num": 20,
+      "components": [],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false
+    },
+    {
+      "num": 19,
+      "components": [],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false
+    },
+    {
+      "num": 2,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 195,
+          "y": 301,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Why use bootstrap?",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 2270,
+      "y": 360
+    },
+    {
+      "num": 18,
+      "components": [],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false
+    },
+    {
+      "num": 1,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 341.3333333333333,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Saves time",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 2550,
+      "y": 360
+    },
+    {
+      "num": 11,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 250,
+          "y": 287,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Well documented",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false
+    },
+    {
+      "num": 12,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 312,
+          "y": 241,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Responsive!",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "data:image/jpeg;base64,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",
+          "type": "Image",
+          "x": 273,
+          "y": 382,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPEG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false
+    },
+    {
+      "num": 17,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 209,
+          "y": 263,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Future compatibility",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "http://iliterobotics.org/wp-content/uploads/2013/01/HTML5%252BCSS31.png",
+          "type": "Image",
+          "x": 276,
+          "y": 405,
+          "scale": {
+            "x": 0.5233333333333333,
+            "y": 0.5233333333333333,
+            "width": 471,
+            "height": 287.8333333333333
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false
+    },
+    {
+      "num": 16,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 264,
+          "y": 284,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "And of course...<br><br><br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false
+    },
+    {
+      "num": 15,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 341.3333333333333,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Free!<br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false
+    },
+    {
+      "num": 22,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 107,
+          "y": 286,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">Any reasons to NOT use&nbsp;</div><div style=\"text-align: center;\">Bootstrap?</div>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false
+    },
+    {
+      "num": 14,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 260,
+          "y": 570,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "too \"Bootstrapy\"",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "http://files.g4tv.com/ImageDb3/263270_S/Hipster-Dog-Is-Here.jpg",
+          "type": "Image",
+          "x": 215,
+          "y": 223,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 142,
+          "y": 87,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Your Website is looking&nbsp;<br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false
+    },
+    {
+      "num": 13,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 290,
+          "y": 259,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"margin: 0px; padding: 0px; border: 0px; font-family: Lato, sans-serif; font-size: 61px; line-height: 61px; vertical-align: baseline; white-space: normal;\">1. Scaffolding<br><br></div><div style=\"margin: 0px; padding: 0px; border: 0px; font-family: Lato, sans-serif; font-size: 61px; line-height: 61px; vertical-align: baseline; white-space: normal;\">2. Base CSS<br><br></div><div style=\"margin: 0px; padding: 0px; border: 0px; font-family: Lato, sans-serif; font-size: 61px; line-height: 61px; vertical-align: baseline; white-space: normal;\">3. Components</div>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 88,
+          "y": 82,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<span style=\"font-family: Lato, sans-serif; font-size: 69px; line-height: 69px; white-space: normal;\">Features:</span><br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false
+    },
+    {
+      "num": 23,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 196,
+          "y": 235,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"font-size: 36px;\">bootstrap/</div><div style=\"font-size: 36px;\">&nbsp; |── css/</div><div style=\"font-size: 36px;\">&nbsp; | &nbsp; ├── bootstrap.css</div><div style=\"font-size: 36px;\">&nbsp; | &nbsp; ├── bootstrap.min.css</div><div style=\"font-size: 36px;\">&nbsp; |── js/</div><div style=\"font-size: 36px;\">&nbsp; | &nbsp; ├── bootstrap.js</div><div style=\"font-size: 36px;\">&nbsp; | &nbsp; ├── bootstrap.min.js</div><div style=\"font-size: 36px;\">&nbsp; |──&nbsp;img/</div><div style=\"font-size: 36px;\">&nbsp; &nbsp; &nbsp; |── glyphicons-halflings.png</div><div style=\"font-size: 36px;\">&nbsp; &nbsp; &nbsp; |── glyphicons-halflings-white.png</div>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 115,
+          "y": 58,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Folder structure<br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false
+    },
+    {
+      "num": 24,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 341.3333333333333,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<span style=\"font-family: Lato, sans-serif; font-size: 61px; line-height: 61px; white-space: normal;\">1. Scaffolding</span><br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false
+    },
+    {
+      "num": 26,
+      "components": [],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false
+    },
+    {
+      "num": 27,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 341.3333333333333,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<span style=\"font-family: Lato, sans-serif; font-size: 61px; line-height: 61px; white-space: normal;\">2. Base CSS</span><br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false
+    },
+    {
+      "num": 29,
+      "components": [],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false
+    },
+    {
+      "num": 28,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 292,
+          "y": 296,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"margin: 0px; padding: 0px; border: 0px; font-family: Lato, sans-serif; font-size: 61px; line-height: 61px; vertical-align: baseline; white-space: normal;\">3. Components<br></div>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false
+    },
+    {
+      "num": 30,
+      "components": [],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false
+    },
+    {
+      "num": 30,
+      "components": [],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false
+    }
+  ],
+  "activeSlide": {
+    "num": 9,
+    "components": [
+      {
+        "TextBox": {},
+        "x": 52,
+        "y": 41,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "Agenda",
+        "size": 72,
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 58,
+        "y": 192,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<ul><li><span style=\"line-height: normal;\">Overview of bootstrap and it's features (30 min)</span><br><br></li><li><span style=\"line-height: normal;\">Setting up Bootstrap template in ASP.NET(15 min)<br><br></span></li><li><span style=\"line-height: normal;\">Questions</span></li></ul>",
+        "size": 36,
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "selected": true,
+    "active": true,
+    "x": 310,
+    "y": 80
+  },
+  "fileName": "boostrapPresentation05032013"
+}
