@@ -1,7 +1,7 @@
 Bootstrap2inASPnet
 ==================
 
-Code and content used in my bootstrap presentation
+Code and content used in my bootstrap presentation. Below is a copy of my blog. See the full version at http://amadhammer.blogspot.com/
 
 
 Bootstrap is a powerful front end framework that contain a collection of tools used to create great  sites and solve common  front end problems.
@@ -33,9 +33,3 @@ Your Bootstrap files will be located in your content file
 
 
 Code  is available (folder: Working Example) at  https://github.com/AMadHammer/Bootstrap2inASPnet
-
-Helpful resources for super-hero-level of website building:
-- Form builder using drag and drop.
-- Free themes to use.
-- Create a mock up of your bootstrap site.
-- THE GREATEST BOOTSTRAP THEME EVER
